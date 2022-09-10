@@ -3,8 +3,8 @@
 #include <stdio.h>
 /*betty style doc for content*/
 /*
- * main
- * entry to success
+ * main - Entry point
+ * Return: Always 0 (success)
  */
 int main(void)
 {
