@@ -1,8 +1,11 @@
 #include "main.h"
+
 /**
- * main - prints putchar
+ * main - prints _putchar
+ * Description: prints _putchar
  * Return: 0
  */
+
 int main(void)
 {
 	char text[9] = "_putchar";
